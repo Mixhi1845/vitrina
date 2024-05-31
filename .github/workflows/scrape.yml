@@ -1,0 +1,54 @@
+name: Scrape latest data
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 6"
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out this repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1440
+
+      - name: Setup node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: "npm"
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+          cache: "pip"
+      - name: Install node dependencies
+        run: npm ci
+
+      - name: Install Python requirements
+        run: |-
+          python -m pip install -U pip
+          pip install -r requirements.txt
+
+      - name: Scrape latest data
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+
+        run: |
+          python src/lib/py/scrape_billboard_global200.py
+          python src/lib/py/scrape_imdb.py
+          python src/lib/py/scrape_netflix_top10.py
+          python src/lib/py/scrape_nyt_bestsellers.py
+          python src/lib/py/limc_most_watched_videos.py $YOUTUBE_API_KEY
+
+      - name: Commit and push if it changed
+        run: |-
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add src/lib/json/billboard_global200.json src/lib/json/imdb_moviemeter.json src/lib/json/imdb_tvmeter.json src/lib/json/limc_most_watched_videos.json src/lib/json/netflix_tv.json src/lib/json/netflix_movie.json src/lib/json/nyt_bestsellers.json
+          timestamp=$(date -u)
+          git commit -m "Latest data: ${timestamp}" || exit 0
+          git push

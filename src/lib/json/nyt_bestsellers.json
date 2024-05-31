@@ -1,0 +1,36 @@
+{
+    "data_desc": "Authoritatively ranked lists of books sold in the United States, sorted by format and genre.",
+    "data_updated": "June 9, 2024",
+    "data": [
+        {
+            "title": "WHAT THIS COMEDIAN SAID WILL SHOCK YOU",
+            "author": "by Bill Maher",
+            "wks": "New this week",
+            "desc": "The host of \u201cReal Time With Bill Maher\u201d gives his take on a variety of subjects in American culture and politics."
+        },
+        {
+            "title": "THE DEMON OF UNREST",
+            "author": "by Erik Larson",
+            "wks": "4 weeks on the list",
+            "desc": "The author of \u201cThe Splendid and the Vile\u201d portrays the months between the election of Abraham Lincoln and the beginning of the Civil War."
+        },
+        {
+            "title": "THE ANXIOUS GENERATION",
+            "author": "by Jonathan Haidt",
+            "wks": "9 weeks on the list",
+            "desc": "A co-author of \u201cThe Coddling of the American Mind\u201d looks at the mental health impacts that a phone-based life has on children."
+        },
+        {
+            "title": "THE SITUATION ROOM",
+            "author": "by George Stephanopoulos with Lisa Dickey",
+            "wks": "2 weeks on the list",
+            "desc": "The ABC host and former adviser to President Clinton describes the location where and conditions under which a dozen presidential administrations handled crises."
+        },
+        {
+            "title": "ONCE UPON A TIME",
+            "author": "by Elizabeth Beller",
+            "wks": "New this week",
+            "desc": "Carolyn Bessette-Kennedy\u2019s rise to fame and untimely death in a plane crash with her sister, Lauren, and husband, John F. Kennedy Jr."
+        }
+    ]
+}

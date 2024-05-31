@@ -1,0 +1,77 @@
+{
+    "data_title": "Global Top 10",
+    "data_desc": "Weekly Top 10 lists of the most-watched TV and films.",
+    "data_updated": "May 20 - May 26, 2024",
+    "data": [
+        {
+            "rows": 1,
+            "title": "Bridgerton",
+            "episode": "Season 3",
+            "wks": 2,
+            "views": 25300000
+        },
+        {
+            "rows": 2,
+            "title": "Bridgerton",
+            "episode": "Season 1",
+            "wks": 11,
+            "views": 6400000
+        },
+        {
+            "rows": 3,
+            "title": "Ashley Madison",
+            "episode": "Sex, Lies & Scandal: Season 1",
+            "wks": 2,
+            "views": 6300000
+        },
+        {
+            "rows": 4,
+            "title": "Bridgerton",
+            "episode": "Season 2",
+            "wks": 17,
+            "views": 5300000
+        },
+        {
+            "rows": 5,
+            "title": "Baby Reindeer",
+            "episode": "Limited Series",
+            "wks": 7,
+            "views": 4500000
+        },
+        {
+            "rows": 6,
+            "title": "Jurassic World",
+            "episode": "Chaos Theory: Season 1",
+            "wks": 1,
+            "views": 3800000
+        },
+        {
+            "rows": 7,
+            "title": "Tires",
+            "episode": "Season 1",
+            "wks": 1,
+            "views": 3800000
+        },
+        {
+            "rows": 8,
+            "title": "Queen Charlotte",
+            "episode": "A Bridgerton Story",
+            "wks": 7,
+            "views": 3100000
+        },
+        {
+            "rows": 9,
+            "title": "Bodkin",
+            "episode": "Season 1",
+            "wks": 3,
+            "views": 1900000
+        },
+        {
+            "rows": 10,
+            "title": "Buying London",
+            "episode": "Season 1",
+            "wks": 1,
+            "views": 1900000
+        }
+    ]
+}

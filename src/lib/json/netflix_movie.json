@@ -1,0 +1,77 @@
+{
+    "data_title": "Global Top 10",
+    "data_desc": "Weekly Top 10 lists of the most-watched TV and films.",
+    "data_updated": "May 20 - May 26, 2024",
+    "data": [
+        {
+            "rows": 1,
+            "title": "Atlas",
+            "episode": null,
+            "wks": 1,
+            "views": 28200000
+        },
+        {
+            "rows": 2,
+            "title": "Thelma the Unicorn",
+            "episode": null,
+            "wks": 2,
+            "views": 10700000
+        },
+        {
+            "rows": 3,
+            "title": "Ice Age",
+            "episode": "Dawn of the Dinosaurs",
+            "wks": 1,
+            "views": 9500000
+        },
+        {
+            "rows": 4,
+            "title": "Mother of the Bride",
+            "episode": null,
+            "wks": 3,
+            "views": 9300000
+        },
+        {
+            "rows": 5,
+            "title": "Disturbia",
+            "episode": null,
+            "wks": 2,
+            "views": 8100000
+        },
+        {
+            "rows": 6,
+            "title": "Sing 2",
+            "episode": null,
+            "wks": 10,
+            "views": 7600000
+        },
+        {
+            "rows": 7,
+            "title": "Ice Age",
+            "episode": "Collision Course",
+            "wks": 1,
+            "views": 7200000
+        },
+        {
+            "rows": 8,
+            "title": "A Simple Favor",
+            "episode": null,
+            "wks": 1,
+            "views": 6300000
+        },
+        {
+            "rows": 9,
+            "title": "Madame Web",
+            "episode": null,
+            "wks": 2,
+            "views": 6200000
+        },
+        {
+            "rows": 10,
+            "title": "Security",
+            "episode": null,
+            "wks": 3,
+            "views": 3300000
+        }
+    ]
+}

@@ -1,0 +1,1607 @@
+{
+    "data_title": "Billboard Global 200",
+    "data_desc": "Billboard Global 200\u00a0ranks the top songs based on\u00a0streaming and/or sales activity from more than 200 territories around the world- including the U.S. - as tracked by Luminate. The\u00a0ranking is based on a weighted formula incorporating official-only streams on both\u00a0subscription and ad-supported tiers of leading audio and video music services, plus download sales from top music retailers across the globe.",
+    "data_date": "Week of June 1, 2024",
+    "data": [
+        {
+            "id": 1,
+            "title": "Million Dollar Baby",
+            "artist": "Tommy Richman",
+            "type": null,
+            "peak": 1,
+            "wks": 4
+        },
+        {
+            "id": 2,
+            "title": "I Had Some Help",
+            "artist": "Post Malone Featuring Morgan Wallen",
+            "type": null,
+            "peak": 1,
+            "wks": 2
+        },
+        {
+            "id": 3,
+            "title": "Not Like Us",
+            "artist": "Kendrick Lamar",
+            "type": null,
+            "peak": 1,
+            "wks": 3
+        },
+        {
+            "id": 4,
+            "title": "Lunch",
+            "artist": "Billie Eilish",
+            "type": "NEW",
+            "peak": 4,
+            "wks": 1
+        },
+        {
+            "id": 5,
+            "title": "Espresso",
+            "artist": "Sabrina Carpenter",
+            "type": null,
+            "peak": 2,
+            "wks": 6
+        },
+        {
+            "id": 6,
+            "title": "Chihiro",
+            "artist": "Billie Eilish",
+            "type": "NEW",
+            "peak": 6,
+            "wks": 1
+        },
+        {
+            "id": 7,
+            "title": "A Bar Song (Tipsy)",
+            "artist": "Shaboozey",
+            "type": null,
+            "peak": 5,
+            "wks": 6
+        },
+        {
+            "id": 8,
+            "title": "Birds Of A Feather",
+            "artist": "Billie Eilish",
+            "type": "NEW",
+            "peak": 8,
+            "wks": 1
+        },
+        {
+            "id": 9,
+            "title": "Beautiful Things",
+            "artist": "Benson Boone",
+            "type": null,
+            "peak": 1,
+            "wks": 18
+        },
+        {
+            "id": 10,
+            "title": "Too Sweet",
+            "artist": "Hozier",
+            "type": null,
+            "peak": 1,
+            "wks": 9
+        },
+        {
+            "id": 11,
+            "title": "Fortnight",
+            "artist": "Taylor Swift Featuring Post Malone",
+            "type": null,
+            "peak": 1,
+            "wks": 5
+        },
+        {
+            "id": 12,
+            "title": "Gata Only",
+            "artist": "FloyyMenor X Cris Mj",
+            "type": null,
+            "peak": 4,
+            "wks": 15
+        },
+        {
+            "id": 13,
+            "title": "I Like The Way You Kiss Me",
+            "artist": "Artemas",
+            "type": null,
+            "peak": 2,
+            "wks": 9
+        },
+        {
+            "id": 14,
+            "title": "Lose Control",
+            "artist": "Teddy Swims",
+            "type": null,
+            "peak": 4,
+            "wks": 36
+        },
+        {
+            "id": 15,
+            "title": "Wildflower",
+            "artist": "Billie Eilish",
+            "type": "NEW",
+            "peak": 15,
+            "wks": 1
+        },
+        {
+            "id": 16,
+            "title": "Skinny",
+            "artist": "Billie Eilish",
+            "type": "NEW",
+            "peak": 16,
+            "wks": 1
+        },
+        {
+            "id": 17,
+            "title": "L'amour De Ma Vie",
+            "artist": "Billie Eilish",
+            "type": "NEW",
+            "peak": 17,
+            "wks": 1
+        },
+        {
+            "id": 18,
+            "title": "Blue",
+            "artist": "Billie Eilish",
+            "type": "NEW",
+            "peak": 18,
+            "wks": 1
+        },
+        {
+            "id": 19,
+            "title": "Supernova",
+            "artist": "aespa",
+            "type": null,
+            "peak": 19,
+            "wks": 2
+        },
+        {
+            "id": 20,
+            "title": "The Greatest",
+            "artist": "Billie Eilish",
+            "type": "NEW",
+            "peak": 20,
+            "wks": 1
+        },
+        {
+            "id": 21,
+            "title": "We Can't Be Friends (Wait For Your Love)",
+            "artist": "Ariana Grande",
+            "type": null,
+            "peak": 1,
+            "wks": 11
+        },
+        {
+            "id": 22,
+            "title": "Like That",
+            "artist": "Future, Metro Boomin & Kendrick Lamar",
+            "type": null,
+            "peak": 1,
+            "wks": 9
+        },
+        {
+            "id": 23,
+            "title": "The Diner",
+            "artist": "Billie Eilish",
+            "type": "NEW",
+            "peak": 23,
+            "wks": 1
+        },
+        {
+            "id": 24,
+            "title": "Magnetic",
+            "artist": "ILLIT",
+            "type": null,
+            "peak": 6,
+            "wks": 9
+        },
+        {
+            "id": 25,
+            "title": "I Can Do It With A Broken Heart",
+            "artist": "Taylor Swift",
+            "type": null,
+            "peak": 5,
+            "wks": 5
+        },
+        {
+            "id": 26,
+            "title": "Bittersuite",
+            "artist": "Billie Eilish",
+            "type": "NEW",
+            "peak": 26,
+            "wks": 1
+        },
+        {
+            "id": 27,
+            "title": "Euphoria",
+            "artist": "Kendrick Lamar",
+            "type": null,
+            "peak": 4,
+            "wks": 4
+        },
+        {
+            "id": 28,
+            "title": "End Of Beginning",
+            "artist": "Djo",
+            "type": null,
+            "peak": 3,
+            "wks": 14
+        },
+        {
+            "id": 29,
+            "title": "Austin",
+            "artist": "Dasha",
+            "type": null,
+            "peak": 16,
+            "wks": 11
+        },
+        {
+            "id": 30,
+            "title": "Cruel Summer",
+            "artist": "Taylor Swift",
+            "type": null,
+            "peak": 1,
+            "wks": 62
+        },
+        {
+            "id": 31,
+            "title": "Down Bad",
+            "artist": "Taylor Swift",
+            "type": null,
+            "peak": 2,
+            "wks": 5
+        },
+        {
+            "id": 32,
+            "title": "Santa",
+            "artist": "Rvssian, Rauw Alejandro & Ayra Starr",
+            "type": null,
+            "peak": 24,
+            "wks": 5
+        },
+        {
+            "id": 33,
+            "title": "Texas Hold 'Em",
+            "artist": "Beyonce",
+            "type": null,
+            "peak": 1,
+            "wks": 15
+        },
+        {
+            "id": 34,
+            "title": "Stargazing",
+            "artist": "Myles Smith",
+            "type": null,
+            "peak": 34,
+            "wks": 2
+        },
+        {
+            "id": 35,
+            "title": "Belong Together",
+            "artist": "Mark Ambor",
+            "type": null,
+            "peak": 21,
+            "wks": 8
+        },
+        {
+            "id": 36,
+            "title": "Saturn",
+            "artist": "SZA",
+            "type": null,
+            "peak": 5,
+            "wks": 13
+        },
+        {
+            "id": 37,
+            "title": "Stick Season",
+            "artist": "Noah Kahan",
+            "type": null,
+            "peak": 5,
+            "wks": 33
+        },
+        {
+            "id": 38,
+            "title": "Greedy",
+            "artist": "Tate McRae",
+            "type": null,
+            "peak": 1,
+            "wks": 36
+        },
+        {
+            "id": 39,
+            "title": "I Remember Everything",
+            "artist": "Zach Bryan Featuring Kacey Musgraves",
+            "type": null,
+            "peak": 4,
+            "wks": 39
+        },
+        {
+            "id": 40,
+            "title": "Who's Afraid Of Little Old Me?",
+            "artist": "Taylor Swift",
+            "type": null,
+            "peak": 9,
+            "wks": 5
+        },
+        {
+            "id": 41,
+            "title": "As It Was",
+            "artist": "Harry Styles",
+            "type": null,
+            "peak": 1,
+            "wks": 112
+        },
+        {
+            "id": 42,
+            "title": "One Of The Girls",
+            "artist": "The Weeknd, Jennie & Lily Rose Depp",
+            "type": null,
+            "peak": 10,
+            "wks": 31
+        },
+        {
+            "id": 43,
+            "title": "Flowers",
+            "artist": "Miley Cyrus",
+            "type": null,
+            "peak": 1,
+            "wks": 71
+        },
+        {
+            "id": 44,
+            "title": "Spot!",
+            "artist": "ZICO Featuring Jennie",
+            "type": null,
+            "peak": 24,
+            "wks": 4
+        },
+        {
+            "id": 45,
+            "title": "Si No Quieres No",
+            "artist": "Luis R Conriquez x Neton Vega",
+            "type": null,
+            "peak": 45,
+            "wks": 6
+        },
+        {
+            "id": 46,
+            "title": "Good Luck, Babe!",
+            "artist": "Chappell Roan",
+            "type": null,
+            "peak": 46,
+            "wks": 6
+        },
+        {
+            "id": 47,
+            "title": "Slow It Down",
+            "artist": "Benson Boone",
+            "type": null,
+            "peak": 23,
+            "wks": 9
+        },
+        {
+            "id": 48,
+            "title": "Guilty As Sin?",
+            "artist": "Taylor Swift",
+            "type": null,
+            "peak": 11,
+            "wks": 5
+        },
+        {
+            "id": 49,
+            "title": "Pedro",
+            "artist": "Jaxomy, Agatino Romero & Raffaella Carra",
+            "type": null,
+            "peak": 37,
+            "wks": 6
+        },
+        {
+            "id": 50,
+            "title": "Madonna",
+            "artist": "Natanael Cano & Oscar Maydon",
+            "type": null,
+            "peak": 26,
+            "wks": 11
+        },
+        {
+            "id": 51,
+            "title": "Type Shit",
+            "artist": "Future, Metro Boomin, Travis Scott & Playboi Carti",
+            "type": null,
+            "peak": 6,
+            "wks": 9
+        },
+        {
+            "id": 52,
+            "title": "FE!N",
+            "artist": "Travis Scott Featuring Playboi Carti",
+            "type": null,
+            "peak": 3,
+            "wks": 33
+        },
+        {
+            "id": 53,
+            "title": "Ain't No Love In Oklahoma",
+            "artist": "Luke Combs",
+            "type": "NEW",
+            "peak": 53,
+            "wks": 1
+        },
+        {
+            "id": 54,
+            "title": "I Don't Wanna Wait",
+            "artist": "David Guetta & OneRepublic",
+            "type": null,
+            "peak": 54,
+            "wks": 7
+        },
+        {
+            "id": 55,
+            "title": "One Of Wun",
+            "artist": "Gunna",
+            "type": null,
+            "peak": 55,
+            "wks": 2
+        },
+        {
+            "id": 56,
+            "title": "Snooze",
+            "artist": "SZA",
+            "type": null,
+            "peak": 6,
+            "wks": 76
+        },
+        {
+            "id": 57,
+            "title": "But Daddy I Love Him",
+            "artist": "Taylor Swift",
+            "type": null,
+            "peak": 7,
+            "wks": 5
+        },
+        {
+            "id": 58,
+            "title": "Luna",
+            "artist": "Feid & ATL Jacob",
+            "type": null,
+            "peak": 12,
+            "wks": 24
+        },
+        {
+            "id": 59,
+            "title": "So Long, London",
+            "artist": "Taylor Swift",
+            "type": null,
+            "peak": 4,
+            "wks": 5
+        },
+        {
+            "id": 60,
+            "title": "My Boy Only Breaks His Favorite Toys",
+            "artist": "Taylor Swift",
+            "type": null,
+            "peak": 6,
+            "wks": 5
+        },
+        {
+            "id": 61,
+            "title": "Sheesh",
+            "artist": "BABYMONSTER",
+            "type": null,
+            "peak": 33,
+            "wks": 8
+        },
+        {
+            "id": 62,
+            "title": "Water",
+            "artist": "Tyla",
+            "type": null,
+            "peak": 6,
+            "wks": 36
+        },
+        {
+            "id": 63,
+            "title": "Save Your Tears",
+            "artist": "The Weeknd & Ariana Grande",
+            "type": null,
+            "peak": 1,
+            "wks": 177
+        },
+        {
+            "id": 64,
+            "title": "Bling-Bang-Bang-Born",
+            "artist": "Creepy Nuts",
+            "type": null,
+            "peak": 8,
+            "wks": 19
+        },
+        {
+            "id": 65,
+            "title": "Sweater Weather",
+            "artist": "The Neighbourhood",
+            "type": null,
+            "peak": 25,
+            "wks": 191
+        },
+        {
+            "id": 66,
+            "title": "Another Love",
+            "artist": "Tom Odell",
+            "type": null,
+            "peak": 14,
+            "wks": 160
+        },
+        {
+            "id": 67,
+            "title": "Last Night",
+            "artist": "Morgan Wallen",
+            "type": null,
+            "peak": 5,
+            "wks": 69
+        },
+        {
+            "id": 68,
+            "title": "Family Matters",
+            "artist": "Drake",
+            "type": null,
+            "peak": 11,
+            "wks": 3
+        },
+        {
+            "id": 69,
+            "title": "Miles On It",
+            "artist": "Marshmello & Kane Brown",
+            "type": null,
+            "peak": 66,
+            "wks": 3
+        },
+        {
+            "id": 70,
+            "title": "Die For You",
+            "artist": "The Weeknd & Ariana Grande",
+            "type": null,
+            "peak": 2,
+            "wks": 116
+        },
+        {
+            "id": 71,
+            "title": "Seven",
+            "artist": "Jung Kook Featuring Latto",
+            "type": null,
+            "peak": 1,
+            "wks": 45
+        },
+        {
+            "id": 72,
+            "title": "Europapa",
+            "artist": "Joost",
+            "type": null,
+            "peak": 51,
+            "wks": 2
+        },
+        {
+            "id": 73,
+            "title": "The Tortured Poets Department",
+            "artist": "Taylor Swift",
+            "type": null,
+            "peak": 3,
+            "wks": 5
+        },
+        {
+            "id": 74,
+            "title": "The Smallest Man Who Ever Lived",
+            "artist": "Taylor Swift",
+            "type": null,
+            "peak": 18,
+            "wks": 5
+        },
+        {
+            "id": 75,
+            "title": "Lovin On Me",
+            "artist": "Jack Harlow",
+            "type": null,
+            "peak": 1,
+            "wks": 28
+        },
+        {
+            "id": 76,
+            "title": "Something In The Orange",
+            "artist": "Zach Bryan",
+            "type": null,
+            "peak": 23,
+            "wks": 108
+        },
+        {
+            "id": 77,
+            "title": "The Night We Met",
+            "artist": "Lord Huron",
+            "type": null,
+            "peak": 48,
+            "wks": 45
+        },
+        {
+            "id": 78,
+            "title": "Scared To Start",
+            "artist": "Michael Marcagi",
+            "type": null,
+            "peak": 35,
+            "wks": 17
+        },
+        {
+            "id": 79,
+            "title": "Adivino",
+            "artist": "Myke Towers & Bad Bunny",
+            "type": null,
+            "peak": 28,
+            "wks": 4
+        },
+        {
+            "id": 80,
+            "title": "Someone You Loved",
+            "artist": "Lewis Capaldi",
+            "type": null,
+            "peak": 24,
+            "wks": 194
+        },
+        {
+            "id": 81,
+            "title": "Training Season",
+            "artist": "Dua Lipa",
+            "type": null,
+            "peak": 6,
+            "wks": 14
+        },
+        {
+            "id": 82,
+            "title": "Florida!!!",
+            "artist": "Taylor Swift Featuring Florence + The Machine",
+            "type": null,
+            "peak": 8,
+            "wks": 5
+        },
+        {
+            "id": 83,
+            "title": "Blinding Lights",
+            "artist": "The Weeknd",
+            "type": null,
+            "peak": 2,
+            "wks": 194
+        },
+        {
+            "id": 84,
+            "title": "Feather",
+            "artist": "Sabrina Carpenter",
+            "type": null,
+            "peak": 51,
+            "wks": 24
+        },
+        {
+            "id": 85,
+            "title": "Heya",
+            "artist": "IVE",
+            "type": null,
+            "peak": 56,
+            "wks": 4
+        },
+        {
+            "id": 86,
+            "title": "Unwritten",
+            "artist": "Natasha Bedingfield",
+            "type": null,
+            "peak": 20,
+            "wks": 19
+        },
+        {
+            "id": 87,
+            "title": "What Was I Made For?",
+            "artist": "Billie Eilish",
+            "type": null,
+            "peak": 2,
+            "wks": 45
+        },
+        {
+            "id": 88,
+            "title": "Redrum",
+            "artist": "21 Savage",
+            "type": null,
+            "peak": 5,
+            "wks": 19
+        },
+        {
+            "id": 89,
+            "title": "Carnival",
+            "artist": "\u00a5$: Ye & Ty Dolla $ign Featuring Rich The Kid & Playboi Carti",
+            "type": null,
+            "peak": 2,
+            "wks": 15
+        },
+        {
+            "id": 90,
+            "title": "Sunflower (Spider-Man: Into The Spider-Verse)",
+            "artist": "Post Malone & Swae Lee",
+            "type": null,
+            "peak": 20,
+            "wks": 194
+        },
+        {
+            "id": 91,
+            "title": "I'm Good (Blue)",
+            "artist": "David Guetta & Bebe Rexha",
+            "type": null,
+            "peak": 2,
+            "wks": 91
+        },
+        {
+            "id": 92,
+            "title": "Fast Car",
+            "artist": "Luke Combs",
+            "type": null,
+            "peak": 18,
+            "wks": 61
+        },
+        {
+            "id": 93,
+            "title": "Tell Ur Girlfriend",
+            "artist": "Lay Bankz",
+            "type": null,
+            "peak": 40,
+            "wks": 6
+        },
+        {
+            "id": 94,
+            "title": "Illusion",
+            "artist": "Dua Lipa",
+            "type": null,
+            "peak": 15,
+            "wks": 6
+        },
+        {
+            "id": 95,
+            "title": "Kill Bill",
+            "artist": "SZA",
+            "type": null,
+            "peak": 1,
+            "wks": 76
+        },
+        {
+            "id": 96,
+            "title": "Houdini",
+            "artist": "Dua Lipa",
+            "type": null,
+            "peak": 3,
+            "wks": 28
+        },
+        {
+            "id": 97,
+            "title": "Stumblin' In",
+            "artist": "CYRIL",
+            "type": null,
+            "peak": 97,
+            "wks": 10
+        },
+        {
+            "id": 98,
+            "title": "I Ain't Worried",
+            "artist": "OneRepublic",
+            "type": null,
+            "peak": 5,
+            "wks": 103
+        },
+        {
+            "id": 99,
+            "title": "Fall Back",
+            "artist": "Lithe",
+            "type": null,
+            "peak": 99,
+            "wks": 3
+        },
+        {
+            "id": 100,
+            "title": "I Wanna Be Yours",
+            "artist": "Arctic Monkeys",
+            "type": null,
+            "peak": 55,
+            "wks": 90
+        },
+        {
+            "id": 101,
+            "title": "The Sound Of Silence (CYRIL Remix)",
+            "artist": "Disturbed",
+            "type": null,
+            "peak": 93,
+            "wks": 7
+        },
+        {
+            "id": 102,
+            "title": "Prada",
+            "artist": "casso, RAYE & D-Block Europe",
+            "type": null,
+            "peak": 21,
+            "wks": 40
+        },
+        {
+            "id": 103,
+            "title": "Calm Down",
+            "artist": "Rema & Selena Gomez",
+            "type": null,
+            "peak": 3,
+            "wks": 99
+        },
+        {
+            "id": 104,
+            "title": "Thinkin' Bout Me",
+            "artist": "Morgan Wallen",
+            "type": null,
+            "peak": 21,
+            "wks": 64
+        },
+        {
+            "id": 105,
+            "title": "Perfect",
+            "artist": "Ed Sheeran",
+            "type": null,
+            "peak": 30,
+            "wks": 194
+        },
+        {
+            "id": 106,
+            "title": "My Love Mine All Mine",
+            "artist": "Mitski",
+            "type": null,
+            "peak": 12,
+            "wks": 35
+        },
+        {
+            "id": 107,
+            "title": "loml",
+            "artist": "Taylor Swift",
+            "type": null,
+            "peak": 16,
+            "wks": 5
+        },
+        {
+            "id": 108,
+            "title": "Don't Stop Believin'",
+            "artist": "Journey",
+            "type": null,
+            "peak": 108,
+            "wks": 125
+        },
+        {
+            "id": 109,
+            "title": "Paint The Town Red",
+            "artist": "Doja Cat",
+            "type": null,
+            "peak": 1,
+            "wks": 42
+        },
+        {
+            "id": 110,
+            "title": "La Diabla",
+            "artist": "Xavi",
+            "type": null,
+            "peak": 3,
+            "wks": 24
+        },
+        {
+            "id": 111,
+            "title": "So High School",
+            "artist": "Taylor Swift",
+            "type": null,
+            "peak": 30,
+            "wks": 5
+        },
+        {
+            "id": 112,
+            "title": "See You Again",
+            "artist": "Tyler, The Creator Featuring Kali Uchis",
+            "type": null,
+            "peak": 35,
+            "wks": 50
+        },
+        {
+            "id": 113,
+            "title": "Starboy",
+            "artist": "The Weeknd Featuring Daft Punk",
+            "type": null,
+            "peak": 34,
+            "wks": 151
+        },
+        {
+            "id": 114,
+            "title": "Where The Wild Things Are",
+            "artist": "Luke Combs",
+            "type": null,
+            "peak": 108,
+            "wks": 14
+        },
+        {
+            "id": 115,
+            "title": "Cowgirls",
+            "artist": "Morgan Wallen Featuring ERNEST",
+            "type": null,
+            "peak": 84,
+            "wks": 5
+        },
+        {
+            "id": 116,
+            "title": "Whatever",
+            "artist": "Kygo With Ava Max",
+            "type": null,
+            "peak": 73,
+            "wks": 18
+        },
+        {
+            "id": 117,
+            "title": "Vampire",
+            "artist": "Olivia Rodrigo",
+            "type": null,
+            "peak": 1,
+            "wks": 47
+        },
+        {
+            "id": 118,
+            "title": "Tu Name",
+            "artist": "Fuerza Regida",
+            "type": null,
+            "peak": 64,
+            "wks": 12
+        },
+        {
+            "id": 119,
+            "title": "Until I Found You",
+            "artist": "Stephen Sanchez",
+            "type": null,
+            "peak": 11,
+            "wks": 106
+        },
+        {
+            "id": 120,
+            "title": "The Code",
+            "artist": "Nemo",
+            "type": null,
+            "peak": 52,
+            "wks": 2
+        },
+        {
+            "id": 121,
+            "title": "Hell N Back",
+            "artist": "Bakar Featuring Summer Walker",
+            "type": null,
+            "peak": 54,
+            "wks": 7
+        },
+        {
+            "id": 122,
+            "title": "Summertime Sadness",
+            "artist": "Lana Del Rey vs. Cedric Gervais",
+            "type": null,
+            "peak": 73,
+            "wks": 94
+        },
+        {
+            "id": 123,
+            "title": "Meet The Grahams",
+            "artist": "Kendrick Lamar",
+            "type": null,
+            "peak": 17,
+            "wks": 3
+        },
+        {
+            "id": 124,
+            "title": "Riptide",
+            "artist": "Vance Joy",
+            "type": null,
+            "peak": 53,
+            "wks": 137
+        },
+        {
+            "id": 125,
+            "title": "Believer",
+            "artist": "Imagine Dragons",
+            "type": null,
+            "peak": 52,
+            "wks": 194
+        },
+        {
+            "id": 126,
+            "title": "Levitating",
+            "artist": "Dua Lipa",
+            "type": null,
+            "peak": 2,
+            "wks": 188
+        },
+        {
+            "id": 127,
+            "title": "Daylight",
+            "artist": "David Kushner",
+            "type": null,
+            "peak": 11,
+            "wks": 58
+        },
+        {
+            "id": 128,
+            "title": "Dreams",
+            "artist": "Fleetwood Mac",
+            "type": null,
+            "peak": 10,
+            "wks": 164
+        },
+        {
+            "id": 129,
+            "title": "Lovely",
+            "artist": "Billie Eilish & Khalid",
+            "type": null,
+            "peak": 70,
+            "wks": 192
+        },
+        {
+            "id": 130,
+            "title": "Stay",
+            "artist": "The Kid LAROI & Justin Bieber",
+            "type": null,
+            "peak": 1,
+            "wks": 150
+        },
+        {
+            "id": 131,
+            "title": "The Alchemy",
+            "artist": "Taylor Swift",
+            "type": null,
+            "peak": 19,
+            "wks": 5
+        },
+        {
+            "id": 132,
+            "title": "In The End",
+            "artist": "Linkin Park",
+            "type": null,
+            "peak": 116,
+            "wks": 44
+        },
+        {
+            "id": 133,
+            "title": "Every Breath You Take",
+            "artist": "The Police",
+            "type": null,
+            "peak": 96,
+            "wks": 94
+        },
+        {
+            "id": 134,
+            "title": "Perro Negro",
+            "artist": "Bad Bunny & Feid",
+            "type": null,
+            "peak": 4,
+            "wks": 32
+        },
+        {
+            "id": 135,
+            "title": "Humble.",
+            "artist": "Kendrick Lamar",
+            "type": null,
+            "peak": 85,
+            "wks": 7
+        },
+        {
+            "id": 136,
+            "title": "Viva La Vida",
+            "artist": "Coldplay",
+            "type": null,
+            "peak": 68,
+            "wks": 92
+        },
+        {
+            "id": 137,
+            "title": "Everybody Wants To Rule The World",
+            "artist": "Tears For Fears",
+            "type": null,
+            "peak": 81,
+            "wks": 94
+        },
+        {
+            "id": 138,
+            "title": "Shut Up My Moms Calling",
+            "artist": "Hotel Ugly",
+            "type": null,
+            "peak": 64,
+            "wks": 76
+        },
+        {
+            "id": 139,
+            "title": "Counting Stars",
+            "artist": "OneRepublic",
+            "type": null,
+            "peak": 79,
+            "wks": 165
+        },
+        {
+            "id": 140,
+            "title": "Something Just Like This",
+            "artist": "The Chainsmokers & Coldplay",
+            "type": null,
+            "peak": 102,
+            "wks": 152
+        },
+        {
+            "id": 141,
+            "title": "Take Me To Church",
+            "artist": "Hozier",
+            "type": null,
+            "peak": 110,
+            "wks": 164
+        },
+        {
+            "id": 142,
+            "title": "Whatever She Wants",
+            "artist": "Bryson Tiller",
+            "type": null,
+            "peak": 29,
+            "wks": 14
+        },
+        {
+            "id": 143,
+            "title": "Lose My Breath",
+            "artist": "Stray Kids Featuring Charlie Puth",
+            "type": null,
+            "peak": 35,
+            "wks": 2
+        },
+        {
+            "id": 144,
+            "title": "On One Tonight",
+            "artist": "Gunna",
+            "type": null,
+            "peak": 120,
+            "wks": 2
+        },
+        {
+            "id": 145,
+            "title": "La Durango",
+            "artist": "Peso Pluma, Junior H & Eslabon Armado",
+            "type": null,
+            "peak": 83,
+            "wks": 2
+        },
+        {
+            "id": 146,
+            "title": "Nonsense",
+            "artist": "Sabrina Carpenter",
+            "type": null,
+            "peak": 36,
+            "wks": 47
+        },
+        {
+            "id": 147,
+            "title": "Qlona",
+            "artist": "Karol G & Peso Pluma",
+            "type": null,
+            "peak": 7,
+            "wks": 41
+        },
+        {
+            "id": 148,
+            "title": "Have You Ever Seen The Rain",
+            "artist": "Creedence Clearwater Revival",
+            "type": null,
+            "peak": 99,
+            "wks": 31
+        },
+        {
+            "id": 149,
+            "title": "Money Trees",
+            "artist": "Kendrick Lamar Featuring Jay Rock",
+            "type": null,
+            "peak": 87,
+            "wks": 36
+        },
+        {
+            "id": 150,
+            "title": "Maestro",
+            "artist": "SEVENTEEN",
+            "type": null,
+            "peak": 50,
+            "wks": 4
+        },
+        {
+            "id": 151,
+            "title": "Never Lose Me",
+            "artist": "Flo Milli",
+            "type": null,
+            "peak": 22,
+            "wks": 21
+        },
+        {
+            "id": 152,
+            "title": "Fresh Out The Slammer",
+            "artist": "Taylor Swift",
+            "type": null,
+            "peak": 15,
+            "wks": 5
+        },
+        {
+            "id": 153,
+            "title": "Pink + White",
+            "artist": "Frank Ocean",
+            "type": null,
+            "peak": 96,
+            "wks": 42
+        },
+        {
+            "id": 154,
+            "title": "Heat Waves",
+            "artist": "Glass Animals",
+            "type": null,
+            "peak": 1,
+            "wks": 176
+        },
+        {
+            "id": 155,
+            "title": "Anti-Hero",
+            "artist": "Taylor Swift",
+            "type": null,
+            "peak": 1,
+            "wks": 83
+        },
+        {
+            "id": 156,
+            "title": "Can't Hold Us",
+            "artist": "Macklemore & Ryan Lewis Featuring Ray Dalton",
+            "type": null,
+            "peak": 133,
+            "wks": 72
+        },
+        {
+            "id": 157,
+            "title": "Shape Of You",
+            "artist": "Ed Sheeran",
+            "type": null,
+            "peak": 55,
+            "wks": 193
+        },
+        {
+            "id": 158,
+            "title": "La Bachata",
+            "artist": "Manuel Turizo",
+            "type": null,
+            "peak": 6,
+            "wks": 95
+        },
+        {
+            "id": 159,
+            "title": "Regalo de Dios",
+            "artist": "Julion Alvarez",
+            "type": null,
+            "peak": 124,
+            "wks": 14
+        },
+        {
+            "id": 160,
+            "title": "Unforgettable",
+            "artist": "French Montana Featuring Swae Lee",
+            "type": null,
+            "peak": 137,
+            "wks": 13
+        },
+        {
+            "id": 161,
+            "title": "Take On Me",
+            "artist": "a-ha",
+            "type": null,
+            "peak": 71,
+            "wks": 134
+        },
+        {
+            "id": 162,
+            "title": "Nobody Gets Me",
+            "artist": "SZA",
+            "type": "RE-ENTRY",
+            "peak": 12,
+            "wks": 16
+        },
+        {
+            "id": 163,
+            "title": "Standing Next To You",
+            "artist": "Jung Kook",
+            "type": null,
+            "peak": 1,
+            "wks": 29
+        },
+        {
+            "id": 164,
+            "title": "Offline",
+            "artist": "Young Miko & Feid",
+            "type": null,
+            "peak": 123,
+            "wks": 5
+        },
+        {
+            "id": 165,
+            "title": "Yes, And?",
+            "artist": "Ariana Grande",
+            "type": null,
+            "peak": 1,
+            "wks": 19
+        },
+        {
+            "id": 166,
+            "title": "Get It Sexyy",
+            "artist": "Sexyy Red",
+            "type": null,
+            "peak": 73,
+            "wks": 10
+        },
+        {
+            "id": 167,
+            "title": "Cold Heart (PNAU Remix)",
+            "artist": "Elton John & Dua Lipa",
+            "type": null,
+            "peak": 3,
+            "wks": 145
+        },
+        {
+            "id": 168,
+            "title": "Push Ups",
+            "artist": "Drake",
+            "type": null,
+            "peak": 20,
+            "wks": 5
+        },
+        {
+            "id": 169,
+            "title": "All The Stars",
+            "artist": "Kendrick Lamar & SZA",
+            "type": null,
+            "peak": 129,
+            "wks": 3
+        },
+        {
+            "id": 170,
+            "title": "Lover",
+            "artist": "Taylor Swift",
+            "type": null,
+            "peak": 40,
+            "wks": 61
+        },
+        {
+            "id": 171,
+            "title": "Evergreen",
+            "artist": "Richy Mitch And The Coal Miners",
+            "type": null,
+            "peak": 107,
+            "wks": 13
+        },
+        {
+            "id": 172,
+            "title": "Your Love",
+            "artist": "The Outfield",
+            "type": null,
+            "peak": 167,
+            "wks": 6
+        },
+        {
+            "id": 173,
+            "title": "Mr. Brightside",
+            "artist": "The Killers",
+            "type": null,
+            "peak": 92,
+            "wks": 93
+        },
+        {
+            "id": 174,
+            "title": "Sweet Dreams",
+            "artist": "Koe Wetzel",
+            "type": "NEW",
+            "peak": 174,
+            "wks": 1
+        },
+        {
+            "id": 175,
+            "title": "One Dance",
+            "artist": "Drake Featuring WizKid & Kyla",
+            "type": null,
+            "peak": 107,
+            "wks": 25
+        },
+        {
+            "id": 176,
+            "title": "You Proof",
+            "artist": "Morgan Wallen",
+            "type": null,
+            "peak": 22,
+            "wks": 73
+        },
+        {
+            "id": 177,
+            "title": "Watermelon Sugar",
+            "artist": "Harry Styles",
+            "type": null,
+            "peak": 9,
+            "wks": 164
+        },
+        {
+            "id": 178,
+            "title": "Without Me",
+            "artist": "Eminem",
+            "type": null,
+            "peak": 39,
+            "wks": 137
+        },
+        {
+            "id": 179,
+            "title": "Ya Te Olvide",
+            "artist": "Natanael Cano",
+            "type": "NEW",
+            "peak": 179,
+            "wks": 1
+        },
+        {
+            "id": 180,
+            "title": "Billie Jean",
+            "artist": "Michael Jackson",
+            "type": null,
+            "peak": 137,
+            "wks": 47
+        },
+        {
+            "id": 181,
+            "title": "Yellow",
+            "artist": "Coldplay",
+            "type": null,
+            "peak": 68,
+            "wks": 162
+        },
+        {
+            "id": 182,
+            "title": "Corazon de Piedra",
+            "artist": "Xavi",
+            "type": null,
+            "peak": 43,
+            "wks": 9
+        },
+        {
+            "id": 183,
+            "title": "Africa",
+            "artist": "Toto",
+            "type": "RE-ENTRY",
+            "peak": 183,
+            "wks": 3
+        },
+        {
+            "id": 184,
+            "title": "Locked Out Of Heaven",
+            "artist": "Bruno Mars",
+            "type": null,
+            "peak": 77,
+            "wks": 59
+        },
+        {
+            "id": 185,
+            "title": "Thunderstruck",
+            "artist": "AC/DC",
+            "type": "RE-ENTRY",
+            "peak": 162,
+            "wks": 74
+        },
+        {
+            "id": 186,
+            "title": "Dance The Night",
+            "artist": "Dua Lipa",
+            "type": "RE-ENTRY",
+            "peak": 3,
+            "wks": 51
+        },
+        {
+            "id": 187,
+            "title": "Thank You (Not So Bad)",
+            "artist": "Dimitri Vegas & Like Mike x Tiesto x W&W & Dido",
+            "type": "RE-ENTRY",
+            "peak": 148,
+            "wks": 4
+        },
+        {
+            "id": 188,
+            "title": "Yeah Glo!",
+            "artist": "GloRilla",
+            "type": null,
+            "peak": 159,
+            "wks": 6
+        },
+        {
+            "id": 189,
+            "title": "Popular",
+            "artist": "The Weeknd, Playboi Carti & Madonna",
+            "type": null,
+            "peak": 13,
+            "wks": 50
+        },
+        {
+            "id": 190,
+            "title": "The Door",
+            "artist": "Teddy Swims",
+            "type": null,
+            "peak": 190,
+            "wks": 2
+        },
+        {
+            "id": 191,
+            "title": "Seven Nation Army",
+            "artist": "The White Stripes",
+            "type": "NEW",
+            "peak": 191,
+            "wks": 1
+        },
+        {
+            "id": 192,
+            "title": "Sweet Child O' Mine",
+            "artist": "Guns N' Roses",
+            "type": "RE-ENTRY",
+            "peak": 57,
+            "wks": 142
+        },
+        {
+            "id": 193,
+            "title": "Amargura",
+            "artist": "Karol G",
+            "type": null,
+            "peak": 71,
+            "wks": 53
+        },
+        {
+            "id": 194,
+            "title": "Back To Black",
+            "artist": "Amy Winehouse",
+            "type": "RE-ENTRY",
+            "peak": 171,
+            "wks": 3
+        },
+        {
+            "id": 195,
+            "title": "Just The Way You Are",
+            "artist": "Bruno Mars",
+            "type": "RE-ENTRY",
+            "peak": 80,
+            "wks": 42
+        },
+        {
+            "id": 196,
+            "title": "Y Lloro",
+            "artist": "Junior H",
+            "type": null,
+            "peak": 77,
+            "wks": 32
+        },
+        {
+            "id": 197,
+            "title": "Wanna Be",
+            "artist": "GloRilla & Megan Thee Stallion",
+            "type": null,
+            "peak": 38,
+            "wks": 7
+        },
+        {
+            "id": 198,
+            "title": "September",
+            "artist": "Earth, Wind & Fire",
+            "type": "RE-ENTRY",
+            "peak": 102,
+            "wks": 12
+        },
+        {
+            "id": 199,
+            "title": "imgonnagetyouback",
+            "artist": "Taylor Swift",
+            "type": null,
+            "peak": 28,
+            "wks": 5
+        },
+        {
+            "id": 200,
+            "title": "Dial Drunk",
+            "artist": "Noah Kahan With Post Malone",
+            "type": null,
+            "peak": 39,
+            "wks": 41
+        }
+    ]
+}
